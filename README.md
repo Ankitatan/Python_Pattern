@@ -91,9 +91,3 @@ pip install matplotlib numpy
 ###3. Run the Generator
 
 python pattern_code.py
-
-
----
-
-License
-Distributed under the MIT License.
