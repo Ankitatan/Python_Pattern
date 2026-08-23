@@ -82,29 +82,16 @@ pip install matplotlib numpy
 
 ---
 
-### 2. Run
-
-```bash
-python generate_rosette.py
-
----
-
-## Project structure
-
-├── generate_rosette.py    # Core generation script
-├── assets/
-│   └── generative_flower.png # Sample exported visualization
-├── README.md              # Project documentation
-└── requirements.txt       # Python dependencies
-
----
-
-### Output
-
-# Generative Moiré Rosette: Dual-Layer Wireframe Mesh
-
 <p align="center">
-  <img src="assets/Final.png" alt="Generative Moiré Rosette" width="520"/>
+  <img src="Final.png" alt="Generative Moiré Rosette" width="520"/>
 </p>
 
-A mathematical generative art project that creates intricate, multi-layered floral rosettes...translucencydpiint350Resolution for exported raster
+---
+
+## 2. Install Dependencies
+
+pip install matplotlib numpy
+
+3. Run the Generator
+
+python pattern_code.py
