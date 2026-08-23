@@ -92,6 +92,8 @@ pip install matplotlib numpy
 
 python pattern_code.py
 
-## Screenshot
 
-<img width="1600" height="1479" alt="Final" src="Final.png" />
+---
+
+License
+Distributed under the MIT License.
