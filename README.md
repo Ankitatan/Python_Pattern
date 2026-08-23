@@ -82,6 +82,9 @@ pip install matplotlib numpy
 
 ---
 
+
+### 2. Run
+
 ```bash
 python generate_rosette.py
 
