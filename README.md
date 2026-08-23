@@ -80,8 +80,12 @@ git clone [https://github.com/Ankitatan/generative-moire-rosette.git](https://gi
 cd generative-moire-rosette
 pip install matplotlib numpy
 
+---
+
 ```bash
 python generate_rosette.py
+
+---
 
 ### Project structure
 
@@ -91,13 +95,6 @@ python generate_rosette.py
 ├── README.md              # Project documentation
 └── requirements.txt       # Python dependencies
 
-### Customization parameter
 
-Parameter,Type,Default,Description
-N,int,2200,Number of perimeter nodes (determines mesh density)
-"m_purple, m_pink",int,5,Modular chord multiplier for fold geometry
-rot_angle,float,42°,Angular offset between overlapping mesh layers
-alpha,float,0.08 - 0.25,Line opacity for controlling Moiré translucency
-dpi,int,350,Resolution for exported raster image
 
-ParameterTypeDefaultDescriptionNint2200Number of perimeter nodes (determines mesh density)m_purple, m_pinkint5Modular chord multiplier for fold geometryrot_anglefloat42°Angular offset between overlapping mesh layersalphafloat0.08 - 0.25Line opacity for controlling Moiré translucencydpiint350Resolution for exported raster image
+geometryrot_anglefloat42°Angular offset between overlapping mesh layersalphafloat0.08 - 0.25Line opacity for controlling Moiré translucencydpiint350Resolution for exported raster image
