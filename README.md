@@ -99,5 +99,5 @@ python pattern_code.py
 ### Screenshot
 
 <p align="center">
-  <img src="Final.png" alt="Generative Moiré Rosette Output" width="500"/>
+  <img src="C:\Users\LENOVO\OneDrive\Documents\GitHub\Pattern\Final.png" alt="Generative Moiré Rosette Output" width="500"/>
 </p>
