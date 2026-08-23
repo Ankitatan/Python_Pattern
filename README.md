@@ -82,22 +82,16 @@ pip install matplotlib numpy
 
 ---
 
-<p align="center">
-  <img src="Final.png" alt="Generative Moiré Rosette" width="520"/>
-</p>
-
----
-
-## 2. Install Dependencies
+### 2. Install Dependencies
 
 pip install matplotlib numpy
 
-3. Run the Generator
+---
+
+###3. Run the Generator
 
 python pattern_code.py
 
-### Screenshot
+## Screenshot
 
-<p align="center">
-  <img src="C:\Users\LENOVO\OneDrive\Documents\GitHub\Pattern\Final.png" alt="Generative Moiré Rosette Output" width="500"/>
-</p>
+<img src="C:\Users\LENOVO\OneDrive\Documents\GitHub\Pattern\Final.png" alt="Generative Moiré Rosette Output" width="500"/>
