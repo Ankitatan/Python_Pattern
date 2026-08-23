@@ -82,7 +82,6 @@ pip install matplotlib numpy
 
 ---
 
-
 ### 2. Run
 
 ```bash
@@ -90,7 +89,7 @@ python generate_rosette.py
 
 ---
 
-### Project structure
+## Project structure
 
 ├── generate_rosette.py    # Core generation script
 ├── assets/
@@ -98,6 +97,11 @@ python generate_rosette.py
 ├── README.md              # Project documentation
 └── requirements.txt       # Python dependencies
 
+---
+
+### Output
+
+<img width="1600" height="1479" alt="Screenshot 2026-08-23 230916" src="https://github.com/user-attachments/assets/61453d84-aa6a-4b0c-a3f9-207219dc3adb" />
 
 
-geometryrot_anglefloat42°Angular offset between overlapping mesh layersalphafloat0.08 - 0.25Line opacity for controlling Moiré translucencydpiint350Resolution for exported raster image
+geometryrot_anglefloat42°Angular offset between overlapping mesh layersalphafloat0.08 - 0.25Line opacity for controlling Moiré translucencydpiint350Resolution for exported raster
