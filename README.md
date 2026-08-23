@@ -95,3 +95,9 @@ pip install matplotlib numpy
 3. Run the Generator
 
 python pattern_code.py
+
+### Screenshot
+
+<p align="center">
+  <img src="generative_flower.png" alt="Generative Moiré Rosette Output" width="500"/>
+</p>
