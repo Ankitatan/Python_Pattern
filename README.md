@@ -94,4 +94,4 @@ python pattern_code.py
 
 ## Screenshot
 
-<img width="2848" height="1537" alt="home-dashboard1" src="<img width="1600" height="1479" alt="Final" src="https://github.com/user-attachments/assets/781970b9-e67f-459e-b675-4e10484c6096" />
+<img width="1600" height="1479" alt="Final" src="https://github.com/user-attachments/assets/6ea9948e-6d92-4a24-b5c6-8fbcce2301f3" />
