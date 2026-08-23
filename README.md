@@ -94,4 +94,4 @@ python pattern_code.py
 
 ## Screenshot
 
-<img src="C:\Users\LENOVO\OneDrive\Documents\GitHub\Pattern\Final.png" alt="Generative Moiré Rosette Output" width="500"/>
+<img width="2848" height="1537" alt="home-dashboard1" src="<img width="1600" height="1479" alt="Final" src="https://github.com/user-attachments/assets/781970b9-e67f-459e-b675-4e10484c6096" />
