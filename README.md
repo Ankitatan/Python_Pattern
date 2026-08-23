@@ -101,7 +101,10 @@ python generate_rosette.py
 
 ### Output
 
-<img width="1600" height="1479" alt="Final" src="https://github.com/user-attachments/assets/523819e0-fc80-4ff5-9250-438a31d71497" />
+# Generative Moiré Rosette: Dual-Layer Wireframe Mesh
 
+<p align="center">
+  <img src="assets/Final.png" alt="Generative Moiré Rosette" width="520"/>
+</p>
 
-geometryrot_anglefloat42°Angular offset between overlapping mesh layersalphafloat0.08 - 0.25Line opacity for controlling Moiré translucencydpiint350Resolution for exported raster
+A mathematical generative art project that creates intricate, multi-layered floral rosettes...translucencydpiint350Resolution for exported raster
