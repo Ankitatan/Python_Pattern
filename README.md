@@ -101,7 +101,7 @@ python generate_rosette.py
 
 ### Output
 
-<img width="1600" height="1479" alt="Screenshot 2026-08-23 230916" src="https://github.com/user-attachments/assets/61453d84-aa6a-4b0c-a3f9-207219dc3adb" />
+<img width="1600" height="1479" alt="Final" src="https://github.com/user-attachments/assets/523819e0-fc80-4ff5-9250-438a31d71497" />
 
 
 geometryrot_anglefloat42°Angular offset between overlapping mesh layersalphafloat0.08 - 0.25Line opacity for controlling Moiré translucencydpiint350Resolution for exported raster
